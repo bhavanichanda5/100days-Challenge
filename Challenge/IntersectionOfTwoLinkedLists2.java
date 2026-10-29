@@ -1,6 +1,6 @@
 package Challenge;
 
-// ============== LeetCode - 160. Intersection of Two Linked Lists ==============
+// ============== LeetCode -160. Intersection of Two Linked Lists ==============
 
 public class IntersectionOfTwoLinkedLists2 {
 
