@@ -39,6 +39,5 @@ The word is valid if it follows any one of these rules:
 Otherwise, return false.
 
 Time complexity: (O(n))
-
 Space complexity: (O(n)) for the temporary strings in this implementation.
  */
